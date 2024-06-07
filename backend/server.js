@@ -26,7 +26,11 @@ const PORT = process.env.PORT ||8000;
 app.use(express.json()) // to parse the req.body
 app.use(express.urlencoded({extended : true})) // to parse the form data
 app.use(cookieParser()) // for cookie parser 
-
+app.use((req, res, next) => {
+    res.setHeader('Cache-Control', 'no-store');
+    next();
+  });
+  
 
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
