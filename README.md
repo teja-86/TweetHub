@@ -61,3 +61,22 @@ State Management: Advanced use of React Query for managing server state and real
 
 # Conclusion
 TweetHub is a testament to my capabilities in developing scalable, performant, and user-centric web applications. It highlights my expertise in modern web technologies and my ability to deliver high-quality software solutions, making me an ideal candidate for high-paying roles in the tech industry.
+
+## Installation
+
+Follow these steps to clone and set up the project locally.
+
+### Clone the Repository
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+
+```bash
+git clone https://github.com/teja-86/TweetHub.git
+
+cd TweetHub
+
+```
+
+Start working on it.
