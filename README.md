@@ -195,4 +195,3 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and commit them: `git commit -m 'Add Your Feature'`.
 4. Push to the branch: `git push origin feature/YourFeature`.
 5. Open a Pull Request.
-
