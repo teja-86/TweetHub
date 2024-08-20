@@ -18,7 +18,7 @@ TweetHub is a full-stack social media web application inspired by Twitter. It al
 
 ## Features
 
- ### User Authentication and Authorization:
+ ### User Authentication and Authorization
 - **JWT-Based Authentication:**
   
   Secure login and registration processes using JSON Web Tokens (JWT).
